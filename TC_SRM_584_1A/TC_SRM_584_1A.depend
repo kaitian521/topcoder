@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1373455770 source:/home/llishaokai/SRM/TC_SRM_584_1A/main.cpp
+	<vector>
+	<list>
+	<map>
+	<set>
+	<deque>
+	<stack>
+	<bitset>
+	<algorithm>
+	<functional>
+	<numeric>
+	<utility>
+	<sstream>
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	<stdio.h>
+	<string>
+
