@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1365867487 source:c:\users\ibm_admin\ibm\codejam_c\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<string>
+	<string.h>
+	<set>
+

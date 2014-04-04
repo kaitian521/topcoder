@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1368364286 source:c:\users\ibm_admin\ibm\cf_304_a\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+

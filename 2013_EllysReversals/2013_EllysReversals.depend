@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1364918237 source:c:\users\ibm_admin\ibm\2013_ellysreversals\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<vector>
+

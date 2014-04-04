@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1369500879 source:c:\users\ibm_admin\ibm\tc_srm_580_1a\main.cpp
+	<vector>
+	<list>
+	<map>
+	<set>
+	<deque>
+	<stack>
+	<bitset>
+	<algorithm>
+	<functional>
+	<numeric>
+	<utility>
+	<sstream>
+	<iostream>
+	<string.h>
+	<iomanip>
+	<cstdio>
+	<cmath>
+	<cstdlib>
+	<ctime>
+

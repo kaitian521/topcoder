@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1364996973 source:c:\users\ibm_admin\ibm\tc_2013_1a_c\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+

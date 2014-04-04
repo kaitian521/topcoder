@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1364869354 source:c:\users\ibm_admin\ibm\tc_tc_a\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+

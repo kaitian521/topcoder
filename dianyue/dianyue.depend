@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1393721983 source:c:\users\ibm_admin\ibm\dianyue\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<string.h>
+	<map>
+	<vector>
+	<stdlib.h>
+	<stdio.h>
+	<set>
+	<algorithm>
+

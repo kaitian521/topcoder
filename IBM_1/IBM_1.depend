@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1363612218 source:c:\users\ibm_admin\ibm\ibm_1\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+

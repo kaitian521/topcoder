@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1364472998 source:c:\users\ibm_admin\ibm\tc_srm_572_div1_a\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+	<set>
+

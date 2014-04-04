@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1363821857 source:c:\users\ibm_admin\ibm\ibm_c\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<algorithm>
+
